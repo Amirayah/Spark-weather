@@ -1,0 +1,1 @@
+Spark Shell is an interactive shell through which we can access Spark’s API. Spark provides the shell in two programming languages : Scala and Python. In this tutorial, we shall learn the usage of Python Spark Shell with a basic word count example.
